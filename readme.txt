@@ -4,6 +4,4 @@ Hello
 
 World
 
-Adding New Feature to secondbranch
-
-changing locally
+adding new fearure to secondbranch
